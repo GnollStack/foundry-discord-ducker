@@ -1,0 +1,27 @@
+{
+  "id": "foundry-discord-ducker",
+  "title": "Foundry To Discord Ducker",
+  "version": "13.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "A simple module that automatically ducks Discord audio via a bot when Foundry VTT is active.",
+  "authors": [
+    {
+      "name": "Fligo11",
+      "discord": "Fligo11",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "scripts/foundry-discord-ducker.js"
+  ],
+  "url": "https://github.com/GnollStack/foundry-discord-ducker",
+  "manifest": "https://github.com/GnollStack/foundry-discord-ducker/releases/latest/download/module.json",
+  "download": "https://github.com/GnollStack/foundry-discord-ducker/releases/latest/download/foundry-discord-ducker.zip",
+  "readme": "https://github.com/GnollStack/foundry-discord-ducker/blob/main/README.md",
+  "bugs": "https://github.com/GnollStack/foundry-discord-ducker/issues",
+  "license": "MIT",
+  "flags": {}
+}
